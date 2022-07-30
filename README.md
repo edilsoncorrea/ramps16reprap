@@ -1,7 +1,7 @@
 # Documentações sobre o shield Ramps 1.6 Rearap e congigurações gerais usando Marlin 1.1.9
 
 
-Atentar para o tópico ![Warning](https://reprap.org/wiki/File:Shorted.png) que alerta sobre um erro na placa que joga o pino de 5V para GND.
+Atentar para o tópico ![Warning](https://reprap.org/mediawiki/images/d/d0/Shorted.png) que alerta sobre um erro na placa que joga o pino de 5V para GND.
 
 [RAMPS 1.6 - RepRap](https://reprap.org/wiki/RAMPS_1.6)
 
