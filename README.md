@@ -15,7 +15,6 @@ Para verificar o diagrama esquemático clique [aqui](https://github.com/bigtreet
 
 
 
-|:---------:|:---------:|:---------:|:-----------:|
 |  Jumper 1 | Jumper 2  | Jumper 3  |    Steps    |
 |:---------:|:---------:|:---------:|------------:|
 |    Não    |   Não     |   Não     |  Full step  |
