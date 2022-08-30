@@ -14,6 +14,17 @@ Para verificar o diagrama esquemático clique [aqui](https://github.com/bigtreet
 ![JPG com o esquema de conectores da Ramp 1.6](https://reprap.org/mediawiki/images/5/55/RAMPS1-6connectors.jpg)
 
 
+|   A4988   |
+|-----------|
+|  Jumper 1 | Jumper 2  | Jumper 3  |    Steps    |
+|:---------:|:---------:|:---------:|------------:|
+|    Não    |   Não     |   Não     |  Full step  |
+|    Sim    |   Não     |   Não     |  Half step  |
+|    Não    |   Sim     |   Não     |   1/4 step  |
+|    Sim    |   Sim     |   Não     |   1/8 step  |
+|    Sim    |   Sim     |   Sim     |  1/16 step  |
+
+
 
 |  Jumper 1 | Jumper 2  | Jumper 3  |    Steps    |
 |:---------:|:---------:|:---------:|------------:|
@@ -24,4 +35,3 @@ Para verificar o diagrama esquemático clique [aqui](https://github.com/bigtreet
 |    Não    |   Não     |   Sim     |  1/16 step  |
 |    Sim    |   Não     |   Sim     |  1/32 step  |
 |    Sim    |   Sim     |   Sim     | 1/128 step  |
-
