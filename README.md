@@ -25,6 +25,7 @@ Para verificar o diagrama esquemático clique [aqui](https://github.com/bigtreet
 |    Sim    |   Sim     |   Sim     |  1/16 step  |
 
 
+# Outros drivers de maior precisão
 
 |  Jumper 1 | Jumper 2  | Jumper 3  |    Steps    |
 |:---------:|:---------:|:---------:|------------:|
