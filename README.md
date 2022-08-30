@@ -23,5 +23,5 @@ Para verificar o diagrama esquemático clique [aqui](https://github.com/bigtreet
 |    Sim    |   Sim     |   Não     |   1/8 step  |
 |    Não    |   Não     |   Sim     |  1/16 step  |
 |    Sim    |   Não     |   Sim     |  1/32 step  |
-|    Não    |   Não     |   Não     | 1/128 step  |
+|    Sim    |   Sim     |   Sim     | 1/128 step  |
 
